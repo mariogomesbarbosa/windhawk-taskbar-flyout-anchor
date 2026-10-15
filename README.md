@@ -10,6 +10,8 @@ where the system tray is no longer at the right edge of the screen. By default,
 Windows keeps opening these flyouts at the screen corner, far away from their
 buttons.
 
+![Notification Center and Quick Settings anchored above their taskbar buttons](assets/taskbar-flyout-anchor-example.png)
+
 ## Covered flyouts
 
 | Flyout | Opened by | Anchored to |
